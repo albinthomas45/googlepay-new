@@ -12,7 +12,8 @@ class _scannerState extends State<scanner> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      backgroundColor: Colors.lime,
+      backgroundColor: Colors.white,
+      body: Icon(Icons.camera),
     );
   }
 }

@@ -73,7 +73,7 @@ class _pay_contactState extends State<pay_contact> {
                             ],
                           ),
                         ),
-                        hintText: "+91 00000000..",
+                        hintText: "+91 90487....",
                         hintStyle: TextStyle(
                           fontSize: 20,
                           color: Colors.white,

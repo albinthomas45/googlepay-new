@@ -14,11 +14,7 @@ class _inviteState extends State<invite> {
       width: 390,
       height: 300,
       color: Colors.grey[800],
-      // decoration: BoxDecoration(
-      //     gradient: LinearGradient(
-      //         begin: Alignment.topCenter,
-      //         end: Alignment.bottomCenter,
-      //         colors: [Color(0xff161719), Colors.grey])),
+      
       child: Column(
         children: [
           SizedBox(
